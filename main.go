@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/xh-dev-go/deviceInfoClient/sysMeta"
+	"github.com/dev-xh-go/deviceInfoClient/sysMeta"
 )
 
 func main() {
