@@ -1,8 +1,8 @@
 package main
 
 import (
-	"deviceInfoClient/sysMeta"
 	"fmt"
+	"github.com/xh-dev-go/deviceInfoClient/sysMeta"
 )
 
 func main() {
@@ -10,6 +10,6 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
-	fmt.Printf("%s",meta)
+	fmt.Printf("%s", meta)
 	//fmt.Printf("sdfsdfa")
 }
